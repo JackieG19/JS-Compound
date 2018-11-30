@@ -1,0 +1,8 @@
+var a = 3;
+var b = 17;
+var c = 12;
+
+a += 12; // a = 3 + 12
+b += 9; // b = 17 + 9
+c += 7; // c = 12 + 7
+// output of a, b and c will be assgined a new value
